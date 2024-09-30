@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicbenetti&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que utilizo/utilizei
+## Tecnologias que utilizo/utilizei:
 
 <div style="display: inline_block">
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;
