@@ -2,7 +2,8 @@
 
 ## Olá! Eu sou o Victor Benetti, estudante de  Sistemas para Internet!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicbenetti) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicbenett/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicbenetti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-benetti-0861132a0/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicbenetti&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
